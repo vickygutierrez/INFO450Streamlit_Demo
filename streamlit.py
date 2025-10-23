@@ -17,7 +17,7 @@ except ModuleNotFoundError:
 import pandas as pd
 import plotly.express as px
 
-df=pd.read_csv('/content/Advertising_F.csv')
+df=pd.read_csv('Advertising_F.csv')
 df.head()
 
 #show admin stuff
